@@ -2,9 +2,9 @@
 
 * [Read Class 1](Read-Class-1.md)
 
-* [Read Class 1](Read-Class-3.md)
+* [Read Class 3](Read-Class-3.md)
 
-* [Read Class 1](Read-Class-4.md)
+* [Read Class 4](Read-Class-4.md)
 
 
 ## Level-1
