@@ -6,6 +6,7 @@
 
 * [Read Class 4](Read-Class-4.md)
 
+* [Read linked list](Read-Linked-Lists.md)
 
 ## Level-1
 
