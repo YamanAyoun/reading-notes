@@ -8,6 +8,8 @@
 
 * [Read linked list](Read-Linked-Lists.md)
 
+* [Read linked list](Read-Class-6.md)
+
 ## Level-1
 
 This site includes some `reading notes`, and you can see the levels you reached.
