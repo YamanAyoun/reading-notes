@@ -10,6 +10,8 @@
 
 * [Read Class 6](Read-Class-6.md)
 
+* [Read Class 7](Read-Class-7.md)
+
 ## Level-1
 
 This site includes some `reading notes`, and you can see the levels you reached.
