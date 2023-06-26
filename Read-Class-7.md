@@ -16,11 +16,13 @@ Interfaces also play a role in struct inheritance in C#. Since structs cannot di
 interfaces allow structs to simulate inheritance by implementing the interface's members.
 
 **Static abstract and virtual members**
+
 It's important to note that static virtual and static abstract methods in interfaces are resolved at compile time, 
 unlike virtual or abstract methods in classes which are resolved at runtime through dynamic dispatch. 
 The compiler uses the available type information at compile time to resolve calls to static virtual and static abstract methods.
 
 **Interface inheritance**
+
 interfaces do not allow the declaration of instance fields or instance auto-properties. 
 This restriction is in place because interfaces are intended to define contracts and behaviors rather than containing state. 
 While static fields are now allowed in interfaces, they are not associated with any specific instance and are shared among all implementing types.
