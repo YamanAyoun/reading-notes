@@ -4,6 +4,7 @@ In object-oriented programming, an interface is a way to define a set of related
 It serves as a contract, specifying the methods that must be implemented by the implementing class or struct. 
 An interface can also include static methods with an implementation.
 
+
 **What is interface**
 
 In C#, interfaces cannot have instance data such as fields, auto-implemented properties, or property-like events. 
@@ -15,11 +16,15 @@ By implementing interfaces, a class can incorporate behavior from multiple sourc
 Interfaces also play a role in struct inheritance in C#. Since structs cannot directly inherit from other structs or classes, 
 interfaces allow structs to simulate inheritance by implementing the interface's members.
 
+
+
 **Static abstract and virtual members**
 
 It's important to note that static virtual and static abstract methods in interfaces are resolved at compile time, 
 unlike virtual or abstract methods in classes which are resolved at runtime through dynamic dispatch. 
 The compiler uses the available type information at compile time to resolve calls to static virtual and static abstract methods.
+
+
 
 **Interface inheritance**
 
