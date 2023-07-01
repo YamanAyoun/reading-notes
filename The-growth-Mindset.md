@@ -16,3 +16,9 @@ because when a person believes in his abilities, he increases in confidence and 
 and this is important to note that we need to believe in our abilities in the field of programming because we face many problems that need thinking And calmness,
 just as determination, the power of passion and perseverance support the achievement of all goals, 
 programming needs to set these goals and high ambition to reach them.
+
+## Things I want to know more about
+
+How much will we need to use a growth mindset in the course?
+
+How will we be able to use these skills in programming?
