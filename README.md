@@ -2,6 +2,8 @@
 
 * [Read Class 1](Read-Class-1.md)
 
+* [Read Class 2](Read-Class-2.md)
+
 * [Read Class 3](Read-Class-3.md)
 
 * [Read Class 4](Read-Class-4.md)
