@@ -21,3 +21,10 @@ To define an enum type, you use the enum keyword and specify the names of the co
 
 By default, the constants in an enum type are of type int and start with a value of zero. 
 The subsequent constants increase by one in the order they are defined. and you have the flexibility to explicitly specify any other integral numeric type as the underlying type for the enum, and you can also assign specific values to the constants.
+
+## Things I want to know more about
+
+* How do we benefit from collection?
+* How does that improve the program?
+* How can we use enum?
+
