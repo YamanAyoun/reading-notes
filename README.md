@@ -14,6 +14,8 @@
 
 * [Read Class 7](Read-Class-7.md)
 
+* [Read Class 8](Read-Class-8.md)
+
 
 ## Level-1
 
