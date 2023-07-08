@@ -25,6 +25,3 @@ The basic query operations in LINQ include:
 
 By utilizing LINQ, developers can write concise and expressive queries that seamlessly integrate with the C# language, enabling efficient and flexible data manipulation.
 
-## Things I want to know more about
-1. Query Forcing Immediate Execution.
-2. Join clause.
