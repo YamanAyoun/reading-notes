@@ -22,7 +22,7 @@ When conducting a pop, the top Node will be re-assigned to the Node that lives b
 5. IsEmpty O(1) - returns true when stack is empty otherwise returns false.
 
 ## Queue
-Queue is a data structure, similar to Stacks but unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue).[ref](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+Queue is a data structure, similar to Stacks but unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue).
 
 **FIFO**
 First In First Out
