@@ -38,6 +38,9 @@
 
 * [Read Class 27](Read-Class-27.md)
 
+* [Read Class 28](Read-Class-28.md)
+
+
 ## Level-1
 
 This site includes some `reading notes`, and you can see the levels you reached.
