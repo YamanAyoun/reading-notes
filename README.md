@@ -42,6 +42,8 @@
 
 * [Read Class 29](Read-Class-29.md)
 
+* [Read Class 30](Read-Class-30.md)
+
 
 ## Level-1
 
