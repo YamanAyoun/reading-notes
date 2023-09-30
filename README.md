@@ -54,7 +54,7 @@
 
 * [Read Class 35](Read-Class-35.md)
 
-* [Read Class 35](Read-Class-37.md)
+* [Read Class 37](Read-Class-37.md)
 
 
 
