@@ -58,6 +58,8 @@
 
 * [Read Class 38](Read-Class-38.md)
 
+* [Read Class 39](Read-Class-39.md)
+
 
 
 
