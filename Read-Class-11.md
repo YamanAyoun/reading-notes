@@ -1,5 +1,5 @@
 # Introduction to Databases
-## Database
+## Database 
 Database:  is a collection of related data and data is a collection of facts and figures that can be processed to produce information.
 
 **Some attributes used for Databases in C#:** <br />
