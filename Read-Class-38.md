@@ -1,4 +1,4 @@
-# React 1
+# React 1 
 
 React is a JavaScript library, and so we’ll assume you have a basic understanding of the JavaScript language. 
 If you don’t feel very confident, we recommend going through a JavaScript tutorial to check your knowledge level and enable you to follow along 
