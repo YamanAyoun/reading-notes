@@ -1,4 +1,4 @@
-# Read Class 33: Sending Email with Microsoft Azure
+# Read Class 33: Sending Email with Microsoft Azure 
 
 ### What is SendGrid?
 SendGrid, a cloud-based SMTP provider, simplifies email sending by handling technical aspects, eliminating the need for maintaining email servers.
