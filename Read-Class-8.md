@@ -1,4 +1,4 @@
-## What is a collection C#
+## What is a collection C# 
 
 It is a class, so you must declare an instance of the class before you can add elements to that collection. 
 If your collection contains elements of only one data type, you can use one of the classes in the System.
