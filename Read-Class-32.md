@@ -1,4 +1,4 @@
-# View components
+# View components 
 View components in web development are a way to render reusable and self-contained chunks of UI logic and content within a web application. 
 They provide a separation of concerns, reusability, and testability similar to the relationship between controllers and views. 
 
